@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048616341857",
+    "project_id": "mt-dart-week-app-filmes",
+    "storage_bucket": "mt-dart-week-app-filmes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048616341857:android:6e00b7eb021f75b641f520",
+        "android_client_info": {
+          "package_name": "br.com.memotai.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048616341857-c39e6rgkdveg9g5s96gb6c4n1tm0ftt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.memotai.app_filmes",
+            "certificate_hash": "8f0a052725e6d5f2a6f019a85d3acb229f0d63bd"
+          }
+        },
+        {
+          "client_id": "1048616341857-d9jourk9v082odp2n9td5lv7ce48qf7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpHdKRWuXAc-yuPa7rCFyK8PRxd-U1g-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048616341857-d9jourk9v082odp2n9td5lv7ce48qf7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

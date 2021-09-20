@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+br/com/memotai/app_filmes/BuildConfig.java
+ br.com.memotai.app_filmes.BuildConfig
