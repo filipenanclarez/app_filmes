@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.com.memotai.app_filmes"
+    package="com.memotai.app_filmes"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
     <uses-sdk
-        android:minSdkVersion="21"
+        android:minSdkVersion="16"
         android:targetSdkVersion="30" />
     <!--
          Flutter needs it to communicate with the running application
@@ -18,12 +18,9 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="app_filmes"
-        android:usesCleartextTraffic="true" >
-
-        <!-- possibly other elements -->
+        android:label="app_filmes" >
         <activity
-            android:name="br.com.memotai.app_filmes.MainActivity"
+            android:name="com.memotai.app_filmes.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:hardwareAccelerated="true"
             android:launchMode="singleTop"
@@ -57,7 +54,7 @@
             </intent-filter>
         </activity>
         <!--
- Don't delete the meta-data below.
+             Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
         -->
         <meta-data
@@ -141,7 +138,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="br.com.memotai.app_filmes.firebaseinitprovider"
+            android:authorities="com.memotai.app_filmes.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />

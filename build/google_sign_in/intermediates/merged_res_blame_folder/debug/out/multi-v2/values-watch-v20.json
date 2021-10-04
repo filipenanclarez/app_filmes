@@ -4,7 +4,7 @@
             "outputFile": "/Users/filipenanclarez/Documents/dart_week/quarta_edicao/app_filmes/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/506060ab56e53f8703cf0976fe3d4237/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",
+                    "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/aa2f242b8296127d974c87079f45c392/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -26,7 +26,7 @@
             "outputFile": "/Users/filipenanclarez/Documents/dart_week/quarta_edicao/app_filmes/build/google_sign_in/intermediates/res/merged/debug/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/506060ab56e53f8703cf0976fe3d4237/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",
+                    "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/aa2f242b8296127d974c87079f45c392/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

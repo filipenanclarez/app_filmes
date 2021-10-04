@@ -63,28 +63,28 @@ packages:
       name: firebase_auth
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.1.1"
+    version: "3.1.2"
   firebase_auth_platform_interface:
     dependency: transitive
     description:
       name: firebase_auth_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.1.0"
+    version: "6.1.1"
   firebase_auth_web:
     dependency: transitive
     description:
       name: firebase_auth_web
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.1.0"
+    version: "3.1.1"
   firebase_core:
     dependency: "direct main"
     description:
       name: firebase_core
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.6.0"
+    version: "1.7.0"
   firebase_core_platform_interface:
     dependency: transitive
     description:
@@ -112,7 +112,7 @@ packages:
       name: firebase_remote_config_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.3.0+5"
+    version: "0.3.0+6"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -154,7 +154,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "8a8c64240f4a7b49c9fc66b55771695e2c0ccc37"
+      resolved-ref: "45889b1bf0560bf9cd7adb241c5eb4417d602f61"
       url: "https://github.com/jonataslaw/getx.git"
     source: git
     version: "4.3.8"
@@ -164,7 +164,7 @@ packages:
       name: google_sign_in
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "5.1.0"
+    version: "5.1.1"
   google_sign_in_platform_interface:
     dependency: transitive
     description:
@@ -234,7 +234,7 @@ packages:
       name: plugin_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.1"
+    version: "2.0.2"
   quiver:
     dependency: transitive
     description:
@@ -304,5 +304,5 @@ packages:
     source: hosted
     version: "2.1.0"
 sdks:
-  dart: ">=2.12.0 <3.0.0"
-  flutter: ">=2.0.0"
+  dart: ">=2.14.0 <3.0.0"
+  flutter: ">=2.5.0"

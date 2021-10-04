@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.com.memotai.app_filmes">
+    package="com.memotai.app_filmes">
    <application
         android:label="app_filmes"
         android:icon="@mipmap/ic_launcher">

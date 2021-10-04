@@ -1,14 +1,14 @@
 [
     {
         "merged": "/Users/filipenanclarez/Documents/dart_week/quarta_edicao/app_filmes/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/aa05a2241ec25b624583e360d8cb0676/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+        "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/412b9cb8d8f6a6fda2483a7d57a9893a/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/filipenanclarez/Documents/dart_week/quarta_edicao/app_filmes/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/aa05a2241ec25b624583e360d8cb0676/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/412b9cb8d8f6a6fda2483a7d57a9893a/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/filipenanclarez/Documents/dart_week/quarta_edicao/app_filmes/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/aa05a2241ec25b624583e360d8cb0676/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/Users/filipenanclarez/.gradle/caches/transforms-2/files-2.1/412b9cb8d8f6a6fda2483a7d57a9893a/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
     }
 ]
