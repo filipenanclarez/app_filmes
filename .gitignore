@@ -51,3 +51,5 @@ app.*.map.json
 
 *.apk
 *.apk.sha1
+
+*.testefilipe
