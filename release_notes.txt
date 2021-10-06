@@ -1,1 +1,11 @@
-inclusao Carol
+teste release notes com quebra de linha
+
+Melhorias:
+    - Nova tela de inclusão de cartões
+    - Agora é possivel dar zoom
+    - Agora é possivel abrir mais de um livro ao mesmo tempo
+
+Correções
+    - Corrigido erro ao selecionar links
+    - Corrigido erro na importação do arquivo
+    - Corrigido exportação de notas
