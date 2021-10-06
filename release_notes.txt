@@ -1,1 +1,1 @@
-teste release notes automatico via git
+Inclusão da Kelly e da Milena no grupo de testadores
